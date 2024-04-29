@@ -1,0 +1,30 @@
+
+.background{
+  height: 1100px;
+  width: 100%;
+  background-image: url("Images/WebsiteMainBack.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.Scroll{
+  height: 100%;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("Images/WebsiteScroll.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Title{
+  height: auto;
+  width: 70%;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+}
