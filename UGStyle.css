@@ -1,0 +1,61 @@
+
+.background{
+  height: 1500px;
+  width: 100%;
+  background-image: url("Images/WebsiteMainBack.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.Scroll{
+  height: 100%;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("Images/WebsiteScroll.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Title{
+  height: auto;
+  width: 70%;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.description em {
+  font-size: 10px;
+}
+
+.maintitle{
+  font-size: 100px;
+}
+.maintitle em{
+  font-size: 20px;
+}
+
+.Terms{
+  font-size: 14px;
+}
+
+.Terms em{
+  font-size: 21px;
+}
+.Links{
+  font-size: 40px;
+  height: auto;
+  width: 50%;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+}
